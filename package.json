@@ -56,7 +56,7 @@
     "postcss-safe-parser": "4.0.1",
     "prop-types": "15.7.2",
     "razzle-dev-utils": "3.0.0-alpha.2",
-    "react-dev-utils": "6.0.4",
+    "react-dev-utils": "11.0.4",
     "react-error-overlay": "5.0.4",
     "recursive-readdir": "2.2.2",
     "resolve-url-loader": "3.0.0",
